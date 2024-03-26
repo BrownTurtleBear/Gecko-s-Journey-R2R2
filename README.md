@@ -34,9 +34,9 @@ Data is great. It is fun to analyse and very helpfull for every competetive scen
 
 ## How to contribute
 #### Recording
-1. Data it. idk how this works sorry.
-2. would you make a commit to the files through github?
-3. please make issue on how I would organise a way to achive this easiest for us.
+1. Watch Gecko's video.
+2. Write down the things that happen for each race following the format.
+3. Share it back with us so we can update it.
 
 #### Other things to record
 1. Think of another thing that is not on the list above that could be recorded and would be useful for Gecko or fun to analyse.
