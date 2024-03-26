@@ -1,4 +1,4 @@
-# Gecko-s-Journey-R2R2
+# Gecko's Journey TR2R
 A complete data set of every race Gecko has raced.
 
 ## Why?
