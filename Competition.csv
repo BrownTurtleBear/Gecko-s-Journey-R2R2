@@ -1,4 +1,5 @@
-﻿Date,competition,Letter,Placement,Heloo there,MMR,Promotion,id
-11/02/2023,Solo,N/A,1,TRUE,8746,FALSE,1
+Date,competition,Letter,Placement,Heloo there,MMR,Promotion,ID
+11/02/2023,Solo,N/A,1,FALSE,8746,FALSE,1
 12/02/2023,Duo,G,5,FALSE,8599,FALSE,2
-
+13/02/2023,Trio,3DS,3,FALSE,8527,FALSE,3
+14/02/2023,Duo,G,4,FALSE,8417,FALSE,4
