@@ -1,49 +1,61 @@
-ID,Race,Placement 1st (3 for BP),Placement 2nd (5 for BP),Placement last lap,Track ,Character,Kart,Wheels,Glider,Dodge Shock,Get shocked,Use Shock,Dodge Blue,Bill used,Run style,Lucky Action,Get Hit,Get Trailed,Fell,Hit others,Trailed Others,Burnout,Team mate 1 placement,Team mate 2 placement
-1,1,7,9,9,Snow Land,Pink Yoshi,Wild Wiggler,Roller,,FALSE,1,0,FALSE,1,Bag,FALSE,1,0,1,1,0,FALSE,N/A,N/A
-1,2,3,3,2,Sweet Sweet Canyon,Pink Yoshi,Wild Wiggler,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,0,0,FALSE,N/A,N/A
-1,3,5,8,11,Baby Park,Pink Yoshi,Wild Wiggler,Roller,,FALSE,2,0,FALSE,0,Run,FALSE,3,0,0,1,0,FALSE,N/A,N/A
-1,4,1,1,1,Excite Bike,Pink Yoshi,Wild Wiggler,Roller,,FALSE,0,0,FALSE,0,Front,FALSE,0,0,0,0,0,FALSE,N/A,N/A
-1,5,2,9,7,Coconut Mall,Pink Yoshi,Wild Wiggler,Roller,,FALSE,0,0,FALSE,0,Front,FALSE,3,0,0,4,0,FALSE,N/A,N/A
-1,6,1,5,6,Grumble Volcano,Pink Yoshi,Wild Wiggler,Roller,,FALSE,1,0,FALSE,0,Front,FALSE,3,0,0,1,0,FALSE,N/A,N/A
-1,7,12,5,3,Mario Kart Stadium,Pink Yoshi,Wild Wiggler,Roller,,FALSE,0,1,FALSE,2,Bag,FALSE,2,0,0,2,0,FALSE,N/A,N/A
-1,8,7,1,3,Sydney Sprint,Pink Yoshi,Wild Wiggler,Roller,,FALSE,1,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,N/A,N/A
-1,9,2,2,1,Maple Treeway,Pink Yoshi,Wild Wiggler,Roller,,FALSE,1,0,FALSE,0,Run,FALSE,1,0,0,0,0,FALSE,N/A,N/A
-1,10,5,2,2,Paris Promenade,Pink Yoshi,Wild Wiggler,Roller,,FALSE,1,0,FALSE,0,Run,FALSE,0,0,0,1,0,FALSE,N/A,N/A
-1,11,9,5,6,Mushroom Gorge,Pink Yoshi,Wild Wiggler,Roller,,FALSE,2,0,FALSE,0,Run,FALSE,0,1,0,2,1,FALSE,N/A,N/A
-1,12,2,3,4,Sky-High Sundae,Pink Yoshi,Wild Wiggler,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,N/A,N/A
-2,1,8,5,8,Sunshine Airport,Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Bag,FALSE,2,1,0,0,1,FALSE,11,N/A
-2,2,10,3,4,Mario Kart Stadium,Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,1,Bag,FALSE,0,0,0,1,0,FALSE,11,N/A
-2,3,8,5,10,Mushroom Gorge,Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,1,1,1,0,0,FALSE,11,N/A
-2,4,4,10,5,Excite Bike,Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Bag,FALSE,3,0,0,1,0,TRUE,9,N/A
-2,5,6,6,1,Wario Stadium (DS),Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,1,0,FALSE,12,N/A
-2,6,8,7,5,Cheese Land,Luigi,Standard Bike,Roller,,FALSE,0,1,FALSE,0,Front,FALSE,2,0,0,0,0,FALSE,12,N/A
-2,7,11,12,9,Peach Gardens,Luigi,Standard Bike,Roller,,FALSE,1,0,FALSE,0,Bag,FALSE,1,0,0,1,0,FALSE,12,N/A
-2,8,5,5,1,Hyrule Circuit,Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,1,0,FALSE,12,N/A
-2,9,4,5,3,Boo Lake,Luigi,Standard Bike,Roller,,FALSE,1,0,FALSE,0,Front,FALSE,1,1,0,2,0,FALSE,8,N/A
-2,10,10,5,8,Rainbow Road (N64),Luigi,Standard Bike,Roller,,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,1,0,FALSE,1,N/A
-2,11,12,11,8,Mario Circuit (GBA),Luigi,Standard Bike,Roller,,FALSE,1,0,FALSE,0,Bag,FALSE,0,0,0,1,0,FALSE,12,N/A
-2,12,8,7,8,Dolphin Shoals,Luigi,Standard Bike,Roller,,FALSE,1,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,6,N/A
-3,1,3,2,5,Sunshine Airport,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,0,1,FALSE,2,8
-3,2,1,8,5,Neo Bowser City,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Front,FALSE,4,0,0,0,1,FALSE,7,11
-3,3,7,10,12,Mount Wario,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,1,0,1,1,FALSE,10,11
-3,4,9,8,11,Moo  Moo Meadows,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,1,0,0,0,FALSE,2,1
-3,5,5,6,7,Rainbow Road (3DS),Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,1,0,0,1,FALSE,8,1
-3,6,8,10,6,Piranha Plant Slide,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,3,1,1,0,FALSE,8,1
-3,7,7,4,10,Excite Bike,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,5,2
-3,8,5,6,4,Grumble Volcano,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,3,1,0,1,3,FALSE,9,12
-3,9,5,4,3,Wario's Gold Mine,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,8,10
-3,10,2,2,5,Maple Treeway,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,1,0,1,1,0,FALSE,6,8
-3,11,5,6,5,Coconut Mall,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,2,FALSE,12,8
-3,12,4,4,3,DK Jungle,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,9,10
-4,1,7,9,12,Berlin Byways,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,1,0,1,0,FALSE,8,N/A
-4,2,6,7,8,Sky-High Sundae,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,1,1,3,0,FALSE,6,N/A
-4,3,7,11,7,Sydney Sprint,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,12,N/A
-4,4,1,4,4,Mushroom Gorge,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,0,1,FALSE,7,N/A
-4,5,12,3,2,Mario Kart Stadium,Metal Mario,Standard Bike,Roller,Paper Glider,Star,1,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,8,N/A
-4,6,12,5,10,Baby Park,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,1,FALSE,0,Bag,FALSE,1,0,0,0,0,FALSE,7,N/A
-4,7,11,8,11,Wario Stadium (DS),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Bag,FALSE,2,1,0,0,0,FALSE,2,N/A
-4,8,9,9,8,Rainbow Road (N64),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,0,0,0,1,FALSE,7,N/A
-4,9,7,10,6,Peach Gardens,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,2,N/A
-4,10,8,3,12,Rainbow Road (3DS),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,2,0,0,0,FALSE,11,N/A
-4,11,2,3,3,Excite Bike,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,0,0,FALSE,5,N/A
-4,12,9,4,1,Maple Treeway,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,1,0,1,0,FALSE,3,N/A
+ID,Race,Placement 1st (3 for BP),Placement 2nd (5 for BP),Placement last lap,Track ,Character,Kart,Wheels,Glider,Dodge Shock,Get shocked,Use Shock,Dodge Blue,Bill used,Run style,Lucky Action,Get Hit,Get Trailed,Fell,Hit others,Trailed Others,Burnout,Team mate 1 placement,Team mate 2 placement,Positive Comment,Negative Comment
+1,1,7,9,9,Snow Land,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,1,Bag,FALSE,1,0,1,1,0,FALSE,N/A,N/A,4,6
+1,2,3,3,2,Sweet Sweet Canyon,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,0,0,FALSE,N/A,N/A,3,6
+1,3,5,8,11,Baby Park,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,2,0,FALSE,0,Run,FALSE,3,0,0,1,0,FALSE,N/A,N/A,0,11
+1,4,1,1,1,Excite Bike,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Front,FALSE,0,0,0,0,0,FALSE,N/A,N/A,6,9
+1,5,2,9,7,Coconut Mall,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Front,FALSE,3,0,0,4,0,FALSE,N/A,N/A,5,6
+1,6,1,5,6,Grumble Volcano,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Front,FALSE,3,0,0,1,0,FALSE,N/A,N/A,6,6
+1,7,12,5,3,Mario Kart Stadium,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,1,FALSE,2,Bag,FALSE,2,0,0,2,0,FALSE,N/A,N/A,3,5
+1,8,7,1,3,Sydney Sprint,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,N/A,N/A,6,3
+1,9,2,2,1,Maple Treeway,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,1,0,0,0,0,FALSE,N/A,N/A,6,8
+1,10,5,2,2,Paris Promenade,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,0,0,0,1,0,FALSE,N/A,N/A,3,3
+1,11,9,5,6,Mushroom Gorge,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,2,0,FALSE,0,Run,FALSE,0,1,0,2,1,FALSE,N/A,N/A,3,4
+1,12,2,3,4,Sky-High Sundae,Pink Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,N/A,N/A,3,5
+2,1,8,5,8,Sunshine Airport,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Bag,FALSE,2,1,0,0,1,FALSE,11,N/A,4,8
+2,2,10,3,4,Mario Kart Stadium,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,1,Bag,FALSE,0,0,0,1,0,FALSE,11,N/A,5,3
+2,3,8,5,10,Mushroom Gorge,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,1,1,0,0,FALSE,11,N/A,3,2
+2,4,4,10,5,Excite Bike,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Bag,FALSE,3,0,0,1,0,TRUE,9,N/A,1,4
+2,5,6,6,1,Wario Stadium (DS),Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,1,0,FALSE,12,N/A,3,3
+2,6,8,7,5,Cheese Land,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,1,FALSE,0,Front,FALSE,2,0,0,0,0,FALSE,12,N/A,3,10
+2,7,11,12,9,Peach Gardens,Luigi,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Bag,FALSE,1,0,0,1,0,FALSE,12,N/A,4,6
+2,8,5,5,1,Hyrule Circuit,Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,1,0,FALSE,12,N/A,3,4
+2,9,4,5,3,Boo Lake,Luigi,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Front,FALSE,1,1,0,2,0,FALSE,8,N/A,3,6
+2,10,10,5,8,Rainbow Road (N64),Luigi,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,1,0,FALSE,1,N/A,3,5
+2,11,12,11,8,Mario Circuit (GBA),Luigi,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Bag,FALSE,0,0,0,1,0,FALSE,12,N/A,3,5
+2,12,8,7,8,Dolphin Shoals,Luigi,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,6,N/A,2,6
+3,1,3,2,5,Sunshine Airport,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,0,0,0,1,FALSE,2,8,,
+3,2,1,8,5,Neo Bowser City,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Front,FALSE,4,0,0,0,1,FALSE,7,11,,
+3,3,7,10,12,Mount Wario,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,1,0,1,1,FALSE,10,11,,
+3,4,9,8,11,Moo  Moo Meadows,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,1,0,0,0,FALSE,2,1,,
+3,5,5,6,7,Rainbow Road (3DS),Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,1,0,0,1,FALSE,8,1,,
+3,6,8,10,6,Piranha Plant Slide,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,3,1,1,0,FALSE,8,1,,
+3,7,7,4,10,Excite Bike,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,5,2,,
+3,8,5,6,4,Grumble Volcano,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,3,1,0,1,3,FALSE,9,12,,
+3,9,5,4,3,Wario's Gold Mine,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,8,10,,
+3,10,2,2,5,Maple Treeway,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,1,0,FALSE,0,Run,FALSE,1,0,1,1,0,FALSE,6,8,,
+3,11,5,6,5,Coconut Mall,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,2,FALSE,12,8,,
+3,12,4,4,3,DK Jungle,Green Yoshi,Wild Wiggler,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,1,0,FALSE,9,10,,
+4,1,7,9,12,Berlin Byways,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,1,0,1,0,FALSE,8,N/A,4,10
+4,2,6,7,8,Sky-High Sundae,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,1,1,3,0,FALSE,6,N/A,7,10
+4,3,7,11,7,Sydney Sprint,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,2,0,0,0,0,FALSE,12,N/A,5,7
+4,4,1,4,4,Mushroom Gorge,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,0,1,FALSE,7,N/A,4,5
+4,5,12,3,2,Mario Kart Stadium,Metal Mario,Standard Bike,Roller,Paper Glider,Star,1,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,8,N/A,5,9
+4,6,12,5,10,Baby Park,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,1,FALSE,0,Bag,FALSE,1,0,0,0,0,FALSE,7,N/A,,
+4,7,11,8,11,Wario Stadium (DS),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,1,0,FALSE,0,Bag,FALSE,2,1,0,0,0,FALSE,2,N/A,,
+4,8,9,9,8,Rainbow Road (N64),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,0,0,0,1,FALSE,7,N/A,,
+4,9,7,10,6,Peach Gardens,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Bag,FALSE,0,0,0,0,0,FALSE,2,N/A,,
+4,10,8,3,12,Rainbow Road (3DS),Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,3,2,0,0,0,FALSE,11,N/A,,
+4,11,2,3,3,Excite Bike,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,1,0,0,0,0,FALSE,5,N/A,,
+4,12,9,4,1,Maple Treeway,Metal Mario,Standard Bike,Roller,Paper Glider,FALSE,0,0,FALSE,0,Run,FALSE,0,1,0,1,0,FALSE,3,N/A,,
+5,1,,,,Yosin Island,Mario,Ink Skriker,Roller,,,,,,,,,,,,,,,,,,
+5,2,,,,,,,,,,,,,,,,,,,,,,,,,
+5,3,,,,,,,,,,,,,,,,,,,,,,,,,
+5,4,,,,,,,,,,,,,,,,,,,,,,,,,
+5,5,,,,,,,,,,,,,,,,,,,,,,,,,
+5,6,,,,,,,,,,,,,,,,,,,,,,,,,
+5,7,,,,,,,,,,,,,,,,,,,,,,,,,
+5,8,,,,,,,,,,,,,,,,,,,,,,,,,
+5,9,,,,,,,,,,,,,,,,,,,,,,,,,
+5,10,,,,,,,,,,,,,,,,,,,,,,,,,
+5,11,,,,,,,,,,,,,,,,,,,,,,,,,
+5,12,,,,,,,,,,,,,,,,,,,,,,,,,
